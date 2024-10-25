@@ -1,5 +1,5 @@
 services:
-  bumblebee-test:
+  test:
     image: sitespeedio/sitespeed.io:35.3.0
     shm_size: 1g
     environment:
@@ -8,16 +8,4 @@ services:
       - NET_ADMIN
     volumes:
       - .:/sitespeed.io
-    command: '--cpu -n 5 --spa -b chrome bbb-urls.txt'
-  
-  scix-test:
-    image: sitespeedio/sitespeed.io:35.3.0
-    shm_size: 1g
-    environment:
-      - REPLAY=true
-    cap_add:
-      - NET_ADMIN
-    volumes:
-      - .:/sitespeed.io
-    command: '--cpu -n 5 -b chrome nectar-urls.txt'
-
+    command: '--cpu -n 5 --spa -b chrome urls.txt'
