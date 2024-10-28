@@ -1,9 +1,9 @@
-https://ui.adsabs.harvard.edu/search/q=author%3A%22Crutzen%2C%20Paul%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
-https://ui.adsabs.harvard.edu/search/q=Sagan&sort=date%20desc%2C%20bibcode%20desc&p_=0
-https://ui.adsabs.harvard.edu/search/q=author%3A%22%5EPenrose%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
-https://ui.adsabs.harvard.edu/search/q=abs%3A%22dark%20energy%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
-https://ui.adsabs.harvard.edu/search/q=year%3A2000&sort=date%20desc%2C%20bibcode%20desc&p_=0
-https://ui.adsabs.harvard.edu/search/q=year%3A2000-2005&sort=date%20desc%2C%20bibcode%20desc&p_=0
-https://ui.adsabs.harvard.edu/search/q=full%3AMars&sort=date%20desc%2C%20bibcode%20desc&p_=0
-https://ui.adsabs.harvard.edu/search/q=seismology&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=author%3A%22Crutzen%2C%20Paul%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=Sagan&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=author%3A%22%5EPenrose%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=abs%3A%22dark%20energy%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=year%3A2000&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=year%3A2000-2005&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=full%3AMars&sort=date%20desc%2C%20bibcode%20desc&p_=0
+# https://ui.adsabs.harvard.edu/search/q=seismology&sort=date%20desc%2C%20bibcode%20desc&p_=0
 https://ui.adsabs.harvard.edu/search/q=Riess%201998&sort=date%20desc%2C%20bibcode%20desc&p_=0
