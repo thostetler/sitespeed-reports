@@ -27,6 +27,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Make sitespeed.io links point back to root listing
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          include: "sitespeed-result/**"
+          find: "https://www.sitespeed.io/"
+          replace: "/sitespeed-reports/"
+          regex: false
+
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
