@@ -1,0 +1,28 @@
+sites:
+  bumblebee:
+    urls:
+      - https://example.com/bumblebee
+  geoscience-world:
+    urls:
+      - https://example.com/geoscience-world
+  google-scholar:
+    urls:
+      - https://scholar.google.com/
+  inspire:
+    urls:
+      - https://example.com/inspire
+  nectar:
+    urls:
+      - https://example.com/nectar
+  pubmed:
+    urls:
+      - https://pubmed.ncbi.nlm.nih.gov/
+  semantic-scholar:
+    urls:
+      - https://example.com/semantic-scholar
+#  webofscience:
+#    urls:
+#      - https://www-webofscience-com.ezp-prod1.hul.harvard.edu/wos/woscc/summary/6d18e27a-8652-4b77-bdc4-1ee38417b071-01249517e9/relevance/1
+#  scopus:
+#    urls:
+#      - https://www.scopus.com/results/authorNamesList.uri?sort=count-f&src=al&sid=4d44183e3e146b04ce70965b480f6308&sot=al&sdt=al&sl=19&s=AUTHLASTNAME%28Reiss%29&st1=Reiss&orcidId=&selectionPageSearch=anl&reselectAuthor=false&activeFlag=true&showDocument=false&resultsPerPage=20&offset=1&jtp=false&currentPage=1&previousSelectionCount=0&tooManySelections=false&previousResultCount=0&authSubject=LFSC&authSubject=HLSC&authSubject=PHSC&authSubject=SOSC&exactAuthorSearch=false&showFullList=false&authorPreferredName=&origin=searchauthorfreelookup&affiliationId=&txGid=063ddff1b9544b9ee86cb75417fb7147
